@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Crossfit/static/css/main.3e882411.chunk.css",
-    "main.js": "/Crossfit/static/js/main.ba3362b8.chunk.js",
-    "main.js.map": "/Crossfit/static/js/main.ba3362b8.chunk.js.map",
+    "main.js": "/Crossfit/static/js/main.a710aca2.chunk.js",
+    "main.js.map": "/Crossfit/static/js/main.a710aca2.chunk.js.map",
     "runtime-main.js": "/Crossfit/static/js/runtime-main.8c0b6a1a.js",
     "runtime-main.js.map": "/Crossfit/static/js/runtime-main.8c0b6a1a.js.map",
     "static/js/2.56c86558.chunk.js": "/Crossfit/static/js/2.56c86558.chunk.js",
     "static/js/2.56c86558.chunk.js.map": "/Crossfit/static/js/2.56c86558.chunk.js.map",
     "index.html": "/Crossfit/index.html",
-    "precache-manifest.43930ee1d314830561638ae3601e8439.js": "/Crossfit/precache-manifest.43930ee1d314830561638ae3601e8439.js",
+    "precache-manifest.0349f96f3069a79d2ec4f97aca1f78fe.js": "/Crossfit/precache-manifest.0349f96f3069a79d2ec4f97aca1f78fe.js",
     "service-worker.js": "/Crossfit/service-worker.js",
     "static/css/main.3e882411.chunk.css.map": "/Crossfit/static/css/main.3e882411.chunk.css.map",
     "static/js/2.56c86558.chunk.js.LICENSE.txt": "/Crossfit/static/js/2.56c86558.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c0b6a1a.js",
     "static/js/2.56c86558.chunk.js",
     "static/css/main.3e882411.chunk.css",
-    "static/js/main.ba3362b8.chunk.js"
+    "static/js/main.a710aca2.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ec25ed6eee7fd64b9d4580be1801416",
+    "revision": "05c5cdbe977670f509024ae3118cbe2e",
     "url": "/Crossfit/index.html"
   },
   {
-    "revision": "4faa6a6d295e1e2666f0",
+    "revision": "c2f245874aeba26d96a5",
     "url": "/Crossfit/static/css/main.ad560386.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crossfit/static/js/2.8dd6ffb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4faa6a6d295e1e2666f0",
-    "url": "/Crossfit/static/js/main.51642e40.chunk.js"
+    "revision": "c2f245874aeba26d96a5",
+    "url": "/Crossfit/static/js/main.77437f76.chunk.js"
   },
   {
     "revision": "ee200e4974b624f64c3b",
